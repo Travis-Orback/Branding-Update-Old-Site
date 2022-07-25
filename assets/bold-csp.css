@@ -1,0 +1,7 @@
+[name=checkout] * {
+  pointer-events: none;
+}
+
+[href="/checkout"] > * {
+pointer-events:none;
+}
